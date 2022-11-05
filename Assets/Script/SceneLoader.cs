@@ -17,7 +17,7 @@ public class SceneLoader : MonoBehaviour
     }
     public void Leveltwo()
     {
-        SceneManager.LoadScene(sceneName: "Level2");
+        SceneManager.LoadScene(sceneName: "Level8");
     }
     public void MainMenu()
     {

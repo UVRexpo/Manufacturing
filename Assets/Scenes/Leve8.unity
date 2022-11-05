@@ -27338,7 +27338,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 
+  m_text: "Welcome,\nYou just signed in to level 1.\_ So, the task you have to do
+    in level 1 is Welding.\nStep 1: Click the button \"Start welding\" to see how
+    the welding is done.\nStep 2: After welding, upgrade to level 2 by clicking on
+    the \"Level 2\" button\_at\_the\_gate"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -27365,13 +27368,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 22.18
-  m_fontSizeBase: 22.18
+  m_fontSize: 4.05
+  m_fontSizeBase: 4.05
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -27401,7 +27404,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 54.931847, y: -17.893621, z: 54.389885, w: 7.1279964}
+  m_margin: {x: 61.044662, y: -12.331877, z: 58.685287, w: 7.1279964}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -78185,7 +78188,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 706416408}
         m_MethodName: Leveltwo
         m_Mode: 1
         m_Arguments:
