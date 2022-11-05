@@ -9,7 +9,7 @@ public class New : MonoBehaviour{
 
     void Start(){
         Start1 = transform.position;
-        End = transform.position + new Vector3(0,0,10);
+        End = transform.position + new Vector3(21.69f,7.487064f,2.9f);
     }
     void Update(){
         fraction_of_way_there += 0.01f;

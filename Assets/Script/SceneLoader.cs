@@ -15,6 +15,10 @@ public class SceneLoader : MonoBehaviour
     {
         SceneManager.LoadScene(0);
     }
+    public void Leveltree()
+    {
+        SceneManager.LoadScene(sceneName: "Level3");
+    }
     public void MainMenu()
     {
         SceneManager.LoadScene(sceneName: "Main Menu");
