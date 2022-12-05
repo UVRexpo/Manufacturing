@@ -11,8 +11,8 @@ public class VRActive : MonoBehaviour
     }
 
   
-    void Update()
+    public void VROff()
     {
-        
+        XRSettings.enabled = false;
     }
 }
